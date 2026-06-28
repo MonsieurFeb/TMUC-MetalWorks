@@ -6,7 +6,9 @@
 
 Сборка о металлах и Tesla (в разработке)
 
-[Здесь](https://docs.google.com/spreadsheets/d/1QgfgHL2-zgI02FuCiKDp1SiRrGy8UZW7JU7jDRToj7w/edit?usp=sharing) можно найти список модов и другую полезную информацию.
+[Здесь](https://docs.google.com/spreadsheets/d/1GthBKkXWTfcmC_aoIiepRYBzEZoCJjW8Meu37CbcEB4/edit?usp=sharing) можно найти список модов и другую полезную информацию.
+
+Сейчас репозиторий несёт только информационную ценность, воспользуйтесь гугл или яндекс диском.
 
 # Installation
 - Установите Minecraft 1.10.2. Выберите одну из папок (пустых) и запомните её.
@@ -19,7 +21,7 @@
 ## Other Modpacks
 Вы можете найти эту и другие мои сборки [здесь](https://monsieurfeb.github.io/modpacks.html)
 
-А в этой [таблице](https://docs.google.com/spreadsheets/d/1lLu7JaAFoo23XOV87XWc5rpGY2zUfxdeOsy7jaUptiE/edit?usp=sharing) статус разработки модпаков коллекции.
+А в этой [таблице](https://docs.google.com/spreadsheets/d/1u5vIX8oGjELeDfsSiaR8NvIATlkEW-N-MmX3r2Xlx8Q/edit?usp=sharing) статус разработки модпаков коллекции.
 
 ## Contact me
 Просьба писать на почту MonsieurFeb@yandex.ru или [Telegram](https://t.me/thirdBTP/824)
